@@ -1,0 +1,25 @@
+/*
+    Este arquivo é para editar os estilos 
+    dos formularios dessa aplicação em
+    react e next.
+
+*/
+
+.campo{
+    width: 100%;
+    min-width: 300px;
+    padding: 10px;
+}
+
+.campo label{
+    display: block;
+    font-size: 18px;
+    color: #777;
+}
+
+.campo input{
+    margin-top: 5px;
+    display: block;
+    width: 100px;
+    font-size: 18px;
+}

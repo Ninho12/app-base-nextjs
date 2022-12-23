@@ -1,0 +1,14 @@
+/*
+
+    Estilo global da aplicação em react e next.
+
+*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #ccc;
+}
